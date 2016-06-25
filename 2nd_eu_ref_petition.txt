@@ -1,0 +1,208 @@
+United Kingdom:  365483
+France:  14490
+Spain:  9424
+United States:  8308
+Australia:  7124
+Germany:  5336
+Gibraltar:  3173
+Canada:  3041
+Netherlands:  2505
+Ireland:  2318
+Vatican City:  2015
+New Zealand:  2001
+Italy:  1866
+Switzerland:  1781
+Belgium:  1632
+United Arab Emirates:  1596
+Hong Kong:  1466
+Sweden:  1012
+Singapore:  902
+Portugal:  860
+South Africa:  692
+Austria:  659
+Denmark:  652
+Cyprus:  564
+Japan:  556
+Greece:  547
+Luxembourg:  522
+Israel:  489
+Norway:  460
+Jersey:  408
+Malta:  387
+Isle of Man:  355
+Thailand:  331
+Czech Republic:  320
+Finland:  318
+China:  269
+Turkey:  226
+Guernsey:  224
+Qatar:  220
+India:  209
+Poland:  208
+Hungary:  182
+Bulgaria:  181
+Malaysia:  180
+Brazil:  153
+Bermuda:  124
+Romania:  116
+Mexico:  110
+Saudi Arabia:  104
+South Korea:  101
+Kenya:  100
+Cayman Islands:  87
+Egypt:  79
+Russia:  79
+Vietnam:  79
+Iceland:  77
+Indonesia:  74
+Pakistan:  71
+Taiwan:  70
+Argentina:  67
+Colombia:  66
+Monaco:  66
+Philippines:  66
+Chile:  65
+Bahrain:  62
+Ukraine:  61
+Oman:  57
+Uruguay:  52
+Lithuania:  49
+Slovakia:  49
+Lebanon:  45
+Peru:  45
+Jordan:  42
+Trinidad and Tobago:  42
+Mauritius:  41
+Tanzania:  40
+Croatia:  38
+British Virgin Islands:  35
+Kuwait:  34
+Morocco:  33
+Uganda:  33
+Zimbabwe:  31
+Cambodia:  30
+Estonia:  30
+Nigeria:  27
+Barbados:  26
+Swaziland:  26
+Uzbekistan:  26
+Turks and Caicos Islands:  25
+Slovenia:  24
+Vanuatu:  22
+Costa Rica:  21
+Sri Lanka:  21
+Latvia:  20
+Burma:  19
+Brunei:  18
+Macao:  17
+Serbia:  17
+Bangladesh:  15
+Ghana:  15
+Georgia:  14
+Jamaica:  14
+Réunion:  14
+The Bahamas:  14
+Zambia:  14
+Malawi:  13
+Botswana:  12
+Ecuador:  12
+Iran:  12
+Montserrat:  12
+Tuvalu:  12
+Venezuela:  12
+Algeria:  11
+Andorra:  11
+Antigua and Barbuda:  11
+Dominican Republic:  11
+Ethiopia:  11
+Iraq:  11
+St Helena, Ascension and Tristan da Cunha:  11
+Tunisia:  11
+Afghanistan:  10
+Rwanda:  10
+Belize:  9
+Kosovo:  9
+Nepal:  9
+Albania:  8
+Bosnia and Herzegovina:  8
+Falkland Islands:  8
+Fiji:  8
+Kazakhstan:  8
+Panama:  8
+St Lucia:  8
+Anguilla:  7
+Belarus:  7
+Gabon:  7
+Laos:  7
+Macedonia:  7
+Maldives:  7
+Namibia:  7
+Sierra Leone:  7
+Turkmenistan:  7
+Azerbaijan:  6
+Bolivia:  6
+French Guiana:  6
+Grenada:  6
+Honduras:  6
+Mozambique:  6
+Sudan:  6
+The Gambia:  6
+Martinique:  5
+Moldova:  5
+Nicaragua:  5
+Syria:  5
+East Timor:  4
+French Polynesia:  4
+Montenegro:  4
+Papua New Guinea:  4
+Paraguay:  4
+Seychelles:  4
+St Vincent:  4
+The Occupied Palestinian Territories:  4
+Wallis and Futuna:  4
+Dominica:  3
+South Sudan:  3
+Togo:  3
+Yemen:  3
+Armenia:  2
+Benin:  2
+British Antarctic Territory:  2
+British Indian Ocean Territory:  2
+Congo (Democratic Republic):  2
+El Salvador:  2
+Guadeloupe:  2
+Guatemala:  2
+Ivory Coast:  2
+Lesotho:  2
+Libya:  2
+Madagascar:  2
+Mongolia:  2
+North Korea:  2
+Saint-Barthélemy:  2
+Senegal:  2
+Somalia:  2
+St Kitts and Nevis:  2
+St Pierre & Miquelon:  2
+Tonga:  2
+Aruba:  1
+Bhutan:  1
+Bonaire/St Eustatius/Saba:  1
+Burkina Faso:  1
+Burundi:  1
+Cape Verde:  1
+Central African Republic:  1
+Congo:  1
+Cuba:  1
+Djibouti:  1
+Guyana:  1
+Kyrgyzstan:  1
+Liberia:  1
+Liechtenstein:  1
+Mauritania:  1
+New Caledonia:  1
+San Marino:  1
+South Georgia and the South Sandwich Islands:  1
+St Martin:  1
+Suriname:  1
+Tajikistan:  1
+Western Sahara:  1
