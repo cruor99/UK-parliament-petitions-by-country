@@ -1,190 +1,192 @@
-United Kingdom:  365483
-France:  14674
-Spain:  9526
-United States:  8442
-Australia:  7143
-Germany:  5416
-Gibraltar:  3247
-Canada:  3089
-Netherlands:  2534
-Ireland:  2367
-Vatican City:  2309
-New Zealand:  2038
-Italy:  1893
-Switzerland:  1815
-Belgium:  1654
-United Arab Emirates:  1610
-Hong Kong:  1468
-Sweden:  1023
-Singapore:  906
-Portugal:  871
-South Africa:  700
-Austria:  666
-Denmark:  660
-Cyprus:  569
-Greece:  557
-Japan:  557
-Luxembourg:  529
-Israel:  494
-Norway:  469
-Jersey:  412
-Malta:  391
-Isle of Man:  356
-Thailand:  332
-Finland:  326
-Czech Republic:  321
-China:  270
-Guernsey:  229
-Turkey:  229
-Qatar:  223
-India:  212
-Poland:  211
-Hungary:  185
-Bulgaria:  181
-Malaysia:  180
-Brazil:  156
-Bermuda:  125
-Romania:  117
-Mexico:  110
-Saudi Arabia:  107
-South Korea:  102
-Kenya:  100
-Cayman Islands:  89
-Russia:  81
-Egypt:  80
-Iceland:  79
-Vietnam:  79
-Indonesia:  74
-Pakistan:  72
-Taiwan:  70
-Argentina:  68
-Monaco:  67
-Philippines:  67
-Colombia:  66
-Chile:  65
-Bahrain:  62
-Ukraine:  61
-Oman:  57
-Uruguay:  53
-Lithuania:  49
-Slovakia:  49
-Lebanon:  45
-Peru:  45
-Jordan:  42
-Trinidad and Tobago:  42
-Mauritius:  41
-Tanzania:  40
+United Kingdom:  2401768
+France:  15779
+Spain:  10093
+United States:  9231
+Australia:  7439
+Germany:  5946
+Vatican City:  4459
+Gibraltar:  3587
+Canada:  3353
+Netherlands:  2711
+Ireland:  2591
+New Zealand:  2412
+Italy:  2053
+Switzerland:  1962
+Belgium:  1794
+United Arab Emirates:  1669
+Hong Kong:  1486
+Sweden:  1102
+North Korea:  946
+Portugal:  929
+Singapore:  919
+South Africa:  746
+Austria:  712
+Denmark:  700
+Cyprus:  608
+Greece:  594
+Japan:  567
+Luxembourg:  566
+Israel:  514
+Norway:  505
+Jersey:  434
+Malta:  412
+Isle of Man:  379
+Finland:  361
+Czech Republic:  345
+Thailand:  334
+China:  271
+Guernsey:  252
+Turkey:  246
+Qatar:  235
+Poland:  222
+India:  220
+Hungary:  198
+Bulgaria:  192
+Malaysia:  185
+Brazil:  171
+Bermuda:  140
+Romania:  129
+Mexico:  126
+Saudi Arabia:  116
+Kenya:  106
+South Korea:  103
+Aruba:  101
+Cayman Islands:  95
+Argentina:  94
+Egypt:  89
+Russia:  88
+Iceland:  81
+Vietnam:  81
+Pakistan:  80
+Indonesia:  75
+Taiwan:  74
+Chile:  71
+Colombia:  69
+Monaco:  69
+Philippines:  68
+Bahrain:  66
+Ukraine:  66
+Uruguay:  62
+Oman:  61
+Lithuania:  52
+Slovakia:  52
+Lebanon:  49
+Peru:  46
+Mauritius:  44
+Trinidad and Tobago:  44
+Jordan:  43
+Tanzania:  42
+Kuwait:  40
 Croatia:  38
-Kuwait:  36
-British Virgin Islands:  35
+British Virgin Islands:  37
+Estonia:  36
+Uganda:  35
+Zimbabwe:  34
 Morocco:  33
-Uganda:  33
-Zimbabwe:  31
-Barbados:  30
+Barbados:  32
 Cambodia:  30
-Estonia:  30
-Nigeria:  27
+Nigeria:  29
+Uzbekistan:  29
+Slovenia:  27
 Swaziland:  26
-Uzbekistan:  26
-Slovenia:  25
+Vanuatu:  26
 Turks and Caicos Islands:  25
-Vanuatu:  22
-Costa Rica:  21
+Sri Lanka:  23
+Costa Rica:  22
+Burma:  21
 Latvia:  21
-Sri Lanka:  21
-Burma:  19
+Serbia:  19
 Brunei:  18
-Serbia:  18
+Ghana:  18
+Macao:  18
 Bangladesh:  17
-Macao:  17
-Ghana:  16
-Zambia:  15
+Zambia:  17
+Jamaica:  16
+Antigua and Barbuda:  15
+Venezuela:  15
+Andorra:  14
 Georgia:  14
-Jamaica:  14
 Réunion:  14
 The Bahamas:  14
+Botswana:  13
 Malawi:  13
-Andorra:  12
-Botswana:  12
+Tuvalu:  13
+Algeria:  12
+Dominican Republic:  12
 Ecuador:  12
+Ethiopia:  12
 Iran:  12
+Iraq:  12
 Montserrat:  12
-Tuvalu:  12
-Venezuela:  12
-Algeria:  11
-Antigua and Barbuda:  11
-Dominican Republic:  11
-Ethiopia:  11
-Iraq:  11
+Tunisia:  12
+Belize:  11
+Fiji:  11
+Kosovo:  11
+Namibia:  11
 St Helena, Ascension and Tristan da Cunha:  11
-Tunisia:  11
 Afghanistan:  10
+Albania:  10
+Falkland Islands:  10
 Rwanda:  10
-Belize:  9
-Kosovo:  9
 Nepal:  9
-Albania:  8
+Panama:  9
+Belarus:  8
 Bosnia and Herzegovina:  8
-Falkland Islands:  8
-Fiji:  8
 Kazakhstan:  8
-Panama:  8
+Maldives:  8
+Sierra Leone:  8
 St Lucia:  8
 Anguilla:  7
-Belarus:  7
 Gabon:  7
+Grenada:  7
 Laos:  7
 Macedonia:  7
-Maldives:  7
-Namibia:  7
-Sierra Leone:  7
+Mozambique:  7
+Sudan:  7
 Turkmenistan:  7
 Azerbaijan:  6
 Bolivia:  6
 French Guiana:  6
-Grenada:  6
 Honduras:  6
-Mozambique:  6
-Sudan:  6
+Libya:  6
+Moldova:  6
 The Gambia:  6
+Wallis and Futuna:  6
+British Antarctic Territory:  5
 Martinique:  5
-Moldova:  5
+Montenegro:  5
 Nicaragua:  5
+Paraguay:  5
 Syria:  5
+Yemen:  5
 East Timor:  4
 French Polynesia:  4
-Montenegro:  4
+Guadeloupe:  4
 Papua New Guinea:  4
-Paraguay:  4
 Seychelles:  4
 St Vincent:  4
 The Occupied Palestinian Territories:  4
-Wallis and Futuna:  4
 Dominica:  3
+Guatemala:  3
+Ivory Coast:  3
+Senegal:  3
 South Sudan:  3
+St Kitts and Nevis:  3
 Togo:  3
-Yemen:  3
 Armenia:  2
 Benin:  2
-British Antarctic Territory:  2
 British Indian Ocean Territory:  2
 Congo (Democratic Republic):  2
 El Salvador:  2
-Guadeloupe:  2
-Guatemala:  2
-Ivory Coast:  2
 Lesotho:  2
-Libya:  2
+Liberia:  2
 Madagascar:  2
 Mongolia:  2
-North Korea:  2
 Saint-Barthélemy:  2
-Senegal:  2
 Somalia:  2
-St Kitts and Nevis:  2
+St Martin:  2
 St Pierre & Miquelon:  2
 Tonga:  2
-Aruba:  1
 Bhutan:  1
 Bonaire/St Eustatius/Saba:  1
 Burkina Faso:  1
@@ -193,670 +195,670 @@ Cape Verde:  1
 Central African Republic:  1
 Congo:  1
 Cuba:  1
+Curaçao:  1
 Djibouti:  1
 Guyana:  1
 Kyrgyzstan:  1
-Liberia:  1
 Liechtenstein:  1
 Mauritania:  1
 New Caledonia:  1
 San Marino:  1
 South Georgia and the South Sandwich Islands:  1
-St Martin:  1
 Suriname:  1
 Tajikistan:  1
 Western Sahara:  1
-Edinburgh East: 3913
-Edinburgh North and Leith: 6235
-Edinburgh South: 4681
-Edinburgh South West: 3814
-Edinburgh West: 3192
-Banff and Buchan: 751
-Falkirk: 1417
-Glasgow Central: 2979
-Glasgow East: 673
-Glasgow North: 3083
-Glasgow North East: 983
-Glasgow North West: 2050
-Glasgow South: 2272
-Glasgow South West: 937
-Glenrothes: 735
-Gordon: 1872
-Aberdeen North: 2160
-Inverclyde: 883
-Inverness, Nairn, Badenoch and Strathspey: 1726
-Kilmarnock and Loudoun: 1030
-Kirkcaldy and Cowdenbeath: 1289
-Lanark and Hamilton East: 1233
-Linlithgow and East Falkirk: 1689
-Livingston: 1663
-Midlothian: 1547
-Aberdeen South: 2576
-Moray: 1165
-Motherwell and Wishaw: 784
-Na h-Eileanan an Iar: 310
-North Ayrshire and Arran: 1033
-North East Fife: 2162
-Berwickshire, Roxburgh and Selkirk: 1596
-Ochil and South Perthshire: 1896
-Orkney and Shetland: 751
-Paisley and Renfrewshire North: 1342
-Paisley and Renfrewshire South: 1211
-Perth and North Perthshire: 1716
-Ross, Skye and Lochaber: 1318
-Rutherglen and Hamilton West: 1322
-Stirling: 2324
-West Aberdeenshire and Kincardine: 2362
-West Dunbartonshire: 927
-Aberavon: 1131
-Aberconwy: 1765
-Aldershot: 3087
-Aldridge-Brownhills: 1334
-Altrincham and Sale West: 5711
-Alyn and Deeside: 2169
-Amber Valley: 1630
-Arfon: 2578
-Arundel and South Downs: 4823
-Ashfield: 1491
-Ashford: 3499
-Ashton-under-Lyne: 1840
-Aylesbury: 4157
-Banbury: 4711
-Barking: 2953
-Barnsley Central: 1228
-Barnsley East: 1006
-Barrow and Furness: 1846
-Basildon and Billericay: 2025
-Basingstoke: 4058
-Bassetlaw: 1666
-Bath: 7162
-Batley and Spen: 2609
-Battersea: 10877
-Beaconsfield: 4946
-Beckenham: 4640
-Bedford: 3434
-Belfast East: 2556
-Belfast North: 2261
-Belfast South: 4950
-Belfast West: 1852
-Bermondsey and Old Southwark: 10524
-Berwick-upon-Tweed: 1903
-Bethnal Green and Bow: 11146
-Beverley and Holderness: 2579
-Bexhill and Battle: 3483
-Bexleyheath and Crayford: 2111
-Birkenhead: 2382
-Birmingham, Edgbaston: 3668
-Birmingham, Erdington: 1709
-Birmingham, Hall Green: 5130
-Birmingham, Hodge Hill: 2399
-Birmingham, Ladywood: 3940
-Birmingham, Northfield: 2141
-Birmingham, Perry Barr: 2398
-Birmingham, Selly Oak: 3997
-Birmingham, Yardley: 2162
-Bishop Auckland: 1529
-Blackburn: 2961
-Blackley and Broughton: 2735
-Blackpool North and Cleveleys: 1397
-Blackpool South: 1088
-Blaenau Gwent: 1029
-Blaydon: 2351
-Blyth Valley: 1601
-Bognor Regis and Littlehampton: 2312
-Bolsover: 1408
-Bolton North East: 2229
-Bolton South East: 1906
-Bolton West: 2410
-Bootle: 2877
-Boston and Skegness: 1163
-Bosworth: 2537
-Bournemouth East: 4014
-Bournemouth West: 3550
-Bracknell: 4109
-Bradford East: 2368
-Bradford South: 1521
-Bradford West: 2910
-Braintree: 2592
-Brecon and Radnorshire: 2112
-Brent Central: 5963
-Brent North: 4498
-Brentford and Isleworth: 8274
-Brentwood and Ongar: 3108
-Bridgend: 2208
-Bridgwater and West Somerset: 2435
-Brigg and Goole: 1456
-Brighton, Kemptown: 5900
-Brighton, Pavilion: 11584
-Bristol East: 4281
-Bristol North West: 5598
-Bristol South: 5600
-Bristol West: 13151
-Broadland: 3135
-Bromley and Chislehurst: 4377
-Bromsgrove: 2941
-Broxbourne: 2357
-Broxtowe: 3803
-Buckingham: 5165
-Burnley: 1244
-Burton: 2097
-Bury North: 2383
-Bury South: 3017
-Bury St Edmunds: 3722
-Caerphilly: 2151
-Calder Valley: 3574
-Camberwell and Peckham: 8824
-Camborne and Redruth: 2453
-Cambridge: 10149
-Cannock Chase: 1403
-Canterbury: 5804
-Cardiff Central: 4998
-Cardiff North: 4605
-Cardiff South and Penarth: 4737
-Cardiff West: 4489
-Carlisle: 1698
-Carmarthen East and Dinefwr: 1833
-Carmarthen West and South Pembrokeshire: 1781
-Carshalton and Wallington: 3587
-Castle Point: 1316
-Central Devon: 3993
-Central Suffolk and North Ipswich: 3511
-Ceredigion: 2928
-Charnwood: 2818
-Chatham and Aylesford: 1926
-Cheadle: 4749
-Chelmsford: 3949
-Chelsea and Fulham: 9174
-Cheltenham: 5587
-Chesham and Amersham: 5453
-Chesterfield: 2216
-Chichester: 4726
-Chingford and Woodford Green: 4020
-Chippenham: 4261
-Chipping Barnet: 7000
-Chorley: 2542
-Christchurch: 2581
-Cities of London and Westminster: 10287
-City of Chester: 4636
-City of Durham: 3603
-Clacton: 1182
-Cleethorpes: 1326
-Clwyd South: 1538
-Clwyd West: 2173
-Colchester: 4170
-Colne Valley: 3632
-Congleton: 3288
-Copeland: 1581
-Corby: 2851
-Coventry North East: 2373
-Coventry North West: 2694
-Coventry South: 3521
-Crawley: 3101
-Crewe and Nantwich: 2785
-Croydon Central: 4257
-Croydon North: 5220
-Croydon South: 5077
-Cynon Valley: 1356
-Dagenham and Rainham: 1872
-Darlington: 2036
-Dartford: 2453
-Daventry: 2998
-Delyn: 1838
-Denton and Reddish: 2046
-Derby North: 3109
-Derby South: 2243
-Derbyshire Dales: 3218
-Devizes: 3356
-Dewsbury: 2918
-Don Valley: 1380
-Doncaster Central: 1644
-Doncaster North: 1094
-Dover: 2272
-Dudley North: 1114
-Dudley South: 1160
-Dulwich and West Norwood: 10627
-Dwyfor Meirionnydd: 1738
-Ealing Central and Acton: 9968
-Ealing North: 4647
-Ealing, Southall: 3954
-Easington: 938
-East Antrim: 1668
-East Devon: 3764
-East Ham: 4836
-East Hampshire: 4630
-East Londonderry: 1688
-East Surrey: 4503
-East Worthing and Shoreham: 4273
-East Yorkshire: 2096
-Eastbourne: 3292
-Eastleigh: 3622
-Eddisbury: 2802
-Edmonton: 2709
-Ellesmere Port and Neston: 2396
-Elmet and Rothwell: 3139
-Eltham: 3923
-Enfield North: 3280
-Enfield, Southgate: 5776
-Epping Forest: 3368
-Epsom and Ewell: 5343
-Erewash: 2185
-Erith and Thamesmead: 2550
-Esher and Walton: 6999
-Exeter: 5325
-Fareham: 3371
-Faversham and Mid Kent: 3154
-Feltham and Heston: 3523
-Fermanagh and South Tyrone: 1684
-Filton and Bradley Stoke: 3969
-Finchley and Golders Green: 8889
-Folkestone and Hythe: 3200
-Forest of Dean: 2676
-Foyle: 3059
-Fylde: 2183
-Gainsborough: 2101
-Garston and Halewood: 3470
-Gateshead: 2397
-Gedling: 3130
-Gillingham and Rainham: 2126
-Gloucester: 2980
-Gosport: 2301
-Gower: 2677
-Grantham and Stamford: 3075
-Gravesham: 2290
-Great Grimsby: 1080
-Great Yarmouth: 1499
-Greenwich and Woolwich: 7356
-Guildford: 6665
-Hackney North and Stoke Newington: 12356
-Hackney South and Shoreditch: 11656
-Halesowen and Rowley Regis: 1568
-Halifax: 2077
-Haltemprice and Howden: 2479
-Halton: 2090
-Hammersmith: 9645
-Hampstead and Kilburn: 12991
-Harborough: 3744
-Harlow: 1869
-Harrogate and Knaresborough: 4651
-Harrow East: 3819
-Harrow West: 4629
-Hartlepool: 1133
-Harwich and North Essex: 3022
-Hastings and Rye: 3673
-Havant: 2247
-Hayes and Harlington: 2769
-Hazel Grove: 2910
-Hemel Hempstead: 3535
-Hemsworth: 1477
-Hendon: 5405
-Henley: 5976
-Hereford and South Herefordshire: 2653
-Hertford and Stortford: 5058
-Hertsmere: 4343
-Hexham: 3126
-Heywood and Middleton: 1966
-High Peak: 3703
-Hitchin and Harpenden: 6447
-Holborn and St Pancras: 12574
-Hornchurch and Upminster: 2246
-Hornsey and Wood Green: 13783
-Horsham: 4827
-Houghton and Sunderland South: 1316
-Hove: 9000
-Huddersfield: 2480
-Huntingdon: 4203
-Hyndburn: 1553
-Ilford North: 4322
-Ilford South: 4784
-Ipswich: 3317
-Isle of Wight: 3876
-Islington North: 11775
-Islington South and Finsbury: 10494
-Islwyn: 1397
-Jarrow: 1732
-Keighley: 2902
-Kenilworth and Southam: 4149
-Kensington: 10110
-Kettering: 2342
-Kingston and Surbiton: 7509
-Kingston upon Hull East: 1146
-Kingston upon Hull North: 2059
-Kingston upon Hull West and Hessle: 1520
-Kingswood: 2698
-Knowsley: 2156
-Lagan Valley: 2558
-Lancaster and Fleetwood: 3185
-Leeds Central: 4207
-Leeds East: 1866
-Leeds North East: 5737
-Leeds North West: 4380
-Leeds West: 3079
-Leicester East: 2894
-Leicester South: 4463
-Leicester West: 2460
-Leigh: 1885
-Lewes: 5111
-Lewisham East: 5426
-Lewisham West and Penge: 7745
-Lewisham, Deptford: 9743
-Leyton and Wanstead: 6408
-Lichfield: 2670
-Lincoln: 3175
-Liverpool, Riverside: 5940
-Liverpool, Walton: 2146
-Liverpool, Wavertree: 3855
-Liverpool, West Derby: 2328
-Llanelli: 1593
-Loughborough: 3635
-Louth and Horncastle: 1732
-Ludlow: 2438
-Luton North: 2227
-Luton South: 2570
-Macclesfield: 4262
-Maidenhead: 5670
-Maidstone and The Weald: 3494
-Makerfield: 1564
-Maldon: 2420
-Manchester Central: 6507
-Manchester, Gorton: 4881
-Manchester, Withington: 8064
-Mansfield: 1489
-Airdrie and Shotts: 711
-Meon Valley: 3503
-Meriden: 2977
-Merthyr Tydfil and Rhymney: 1277
-Mid Bedfordshire: 3777
-Mid Derbyshire: 2927
-Mid Dorset and North Poole: 2906
-Mid Norfolk: 2823
-Mid Sussex: 5544
-Mid Ulster: 1498
-Mid Worcestershire: 2593
-Middlesbrough: 1375
-Middlesbrough South and East Cleveland: 1505
-Milton Keynes North: 4763
-Milton Keynes South: 4859
-Mitcham and Morden: 4189
-Mole Valley: 5400
-Monmouth: 3244
-Montgomeryshire: 1669
-Morecambe and Lunesdale: 2211
-Morley and Outwood: 2503
-Neath: 1563
-New Forest East: 2906
-New Forest West: 3105
-Newark: 3311
-Newbury: 5025
-Newcastle upon Tyne Central: 3188
-Newcastle upon Tyne East: 4318
-Newcastle upon Tyne North: 3059
-Newcastle-under-Lyme: 1968
-Newport East: 1746
-Newport West: 2600
-Newry and Armagh: 1970
-Newton Abbot: 2822
-Normanton, Pontefract and Castleford: 1511
-North Antrim: 1288
-North Cornwall: 2593
-North Devon: 2807
-North Dorset: 3314
-North Down: 2540
-North Durham: 1795
-North East Bedfordshire: 3999
-North East Cambridgeshire: 2121
-North East Derbyshire: 2145
-North East Hampshire: 4773
-North East Hertfordshire: 4234
-North East Somerset: 3832
-North Herefordshire: 2644
-North Norfolk: 2291
-North Shropshire: 2359
-North Somerset: 4890
-North Swindon: 2893
-North Thanet: 2305
-North Tyneside: 2447
-North Warwickshire: 1507
-North West Cambridgeshire: 3735
-North West Durham: 2114
-North West Hampshire: 3802
-North West Leicestershire: 2528
-North West Norfolk: 1882
-North Wiltshire: 3719
-Northampton North: 2137
-Northampton South: 2421
-Norwich North: 3156
-Norwich South: 6023
-Nottingham East: 3890
-Nottingham North: 1526
-Nottingham South: 3926
-Nuneaton: 1671
-Ogmore: 1508
-Old Bexley and Sidcup: 2380
-Oldham East and Saddleworth: 2190
-Oldham West and Royton: 2224
-Orpington: 3289
-Oxford East: 8886
-Oxford West and Abingdon: 8720
-Pendle: 1514
-Penistone and Stocksbridge: 2196
-Penrith and The Border: 2323
-Peterborough: 2573
-Plymouth, Moor View: 1509
-Plymouth, Sutton and Devonport: 3908
-Pontypridd: 2340
-Poole: 3220
-Poplar and Limehouse: 10340
-Portsmouth North: 2336
-Portsmouth South: 4000
-Preseli Pembrokeshire: 1855
-Preston: 2344
-Pudsey: 4003
-Putney: 8701
-Rayleigh and Wickford: 2009
-Reading East: 6391
-Reading West: 4168
-Redcar: 1084
-Redditch: 1927
-Reigate: 5112
-Rhondda: 1093
-Ribble Valley: 2545
-Richmond (Yorks): 2748
-Richmond Park: 11206
-Rochdale: 2271
-Rochester and Strood: 2564
-Rochford and Southend East: 2414
-Romford: 2275
-Romsey and Southampton North: 4110
-Rossendale and Darwen: 2184
-Rother Valley: 1632
-Rotherham: 1254
-Rugby: 2829
-Ruislip, Northwood and Pinner: 4833
-Runnymede and Weybridge: 4827
-Rushcliffe: 5404
-Rutland and Melton: 3561
-Saffron Walden: 4523
-Salford and Eccles: 4132
-Salisbury: 4036
-Scarborough and Whitby: 2009
-Scunthorpe: 1189
-Sedgefield: 1469
-Sefton Central: 3228
-Selby and Ainsty: 2902
-Sevenoaks: 4054
-Sheffield Central: 6194
-Sheffield South East: 1715
-Sheffield, Brightside and Hillsborough: 2077
-Sheffield, Hallam: 6090
-Sheffield, Heeley: 2884
-Sherwood: 2014
-Shipley: 3367
-Shrewsbury and Atcham: 3496
-Sittingbourne and Sheppey: 1991
-Skipton and Ripon: 3462
-Sleaford and North Hykeham: 2867
-Slough: 3741
-Solihull: 3415
-Somerton and Frome: 4289
-South Antrim: 1984
-South Basildon and East Thurrock: 1512
-South Cambridgeshire: 7601
-South Derbyshire: 2421
-South Dorset: 2556
-South Down: 2626
-South East Cambridgeshire: 6294
-South East Cornwall: 2678
-South Holland and The Deepings: 1714
-South Leicestershire: 2808
-South Norfolk: 4164
-South Northamptonshire: 4062
-South Ribble: 2496
-South Shields: 1335
-South Staffordshire: 1705
-South Suffolk: 3380
-South Swindon: 3434
-South Thanet: 2833
-South West Bedfordshire: 3053
-South West Devon: 2965
-South West Hertfordshire: 5849
-South West Norfolk: 2005
-South West Surrey: 6571
-South West Wiltshire: 3107
-Southampton, Itchen: 3162
-Southampton, Test: 4141
-Southend West: 2870
-Southport: 2859
-Spelthorne: 3172
-St Albans: 7076
-St Austell and Newquay: 2569
-St Helens North: 1959
-St Helens South and Whiston: 2263
-St Ives: 2900
-Stafford: 2433
-Staffordshire Moorlands: 1670
-Stalybridge and Hyde: 2314
-Stevenage: 2723
-Stockport: 3654
-Stockton North: 1272
-Stockton South: 2121
-Stoke-on-Trent Central: 1391
-Stoke-on-Trent North: 1228
-Stoke-on-Trent South: 1212
-Stone: 2201
-Stourbridge: 2003
-Strangford: 1611
-Stratford-on-Avon: 3875
-Streatham: 10140
-Stretford and Urmston: 4110
-Stroud: 5058
-Suffolk Coastal: 3735
-Sunderland Central: 1929
-Surrey Heath: 4484
-Sutton and Cheam: 4321
-Sutton Coldfield: 3432
-Swansea East: 1545
-Swansea West: 2973
-Tamworth: 1845
-Tatton: 4148
-Taunton Deane: 3760
-Telford: 1632
-Tewkesbury: 3540
-The Cotswolds: 4758
-The Wrekin: 2058
-Thirsk and Malton: 2851
-Thornbury and Yate: 2945
-Thurrock: 2065
-Tiverton and Honiton: 3122
-Tonbridge and Malling: 4242
-Tooting: 9941
-Torbay: 2394
-Torfaen: 1505
-Torridge and West Devon: 3132
-Totnes: 3709
-Tottenham: 6952
-Truro and Falmouth: 4626
-Tunbridge Wells: 5790
-Twickenham: 9692
-Tynemouth: 3745
-Upper Bann: 1965
-Uxbridge and South Ruislip: 3556
-Vale of Clwyd: 1657
-Vale of Glamorgan: 3148
-Vauxhall: 10498
-Wakefield: 1889
-Wallasey: 2790
-Walsall North: 912
-Walsall South: 1998
-Walthamstow: 6812
-Wansbeck: 1782
-Wantage: 5885
-Warley: 1915
-Warrington North: 2373
-Warrington South: 4018
-Warwick and Leamington: 5655
-Washington and Sunderland West: 1460
-Watford: 4595
-Waveney: 2166
-Wealden: 4803
-Weaver Vale: 3048
-Wellingborough: 2431
-Wells: 3595
-Welwyn Hatfield: 3969
-Wentworth and Dearne: 1261
-West Bromwich East: 1378
-West Bromwich West: 1142
-West Dorset: 4131
-West Ham: 7271
-West Lancashire: 2820
-West Suffolk: 2741
-West Tyrone: 1558
-West Worcestershire: 3581
-Westminster North: 9069
-Westmorland and Lonsdale: 3594
-Weston-super-Mare: 3020
-Wigan: 1790
-Wimbledon: 8630
-Winchester: 6401
-Windsor: 5031
-Wirral South: 2848
-Wirral West: 3001
-Witham: 2564
-Witney: 5798
-Woking: 5475
-Wokingham: 5756
-Wolverhampton North East: 1170
-Wolverhampton South East: 1062
-Wolverhampton South West: 2181
-Worcester: 3409
-Workington: 1573
-Worsley and Eccles South: 2310
-Worthing West: 3552
-Wrexham: 1679
-Wycombe: 4555
-Wyre and Preston North: 2579
-Wyre Forest: 2098
-Wythenshawe and Sale East: 3632
-Yeovil: 2606
-Ynys Môn: 1939
-York Central: 5718
-York Outer: 4093
-Caithness, Sutherland and Easter Ross: 713
-Angus: 957
-Central Ayrshire: 970
-Argyll and Bute: 1622
-Coatbridge, Chryston and Bellshill: 915
-Cumbernauld, Kilsyth and Kirkintilloch East: 1076
-Dumfries and Galloway: 1223
-Dumfriesshire, Clydesdale and Tweeddale: 1484
-Dundee East: 1384
-Dundee West: 1577
-Dunfermline and West Fife: 1723
-East Dunbartonshire: 2308
-East Kilbride, Strathaven and Lesmahagow: 1432
-Ayr, Carrick and Cumnock: 1059
-East Lothian: 2348
-East Renfrewshire: 2248
+/nBy Constituencies:
+Hornsey and Wood Green: 14780
+Bristol West: 14028
+Hampstead and Kilburn: 13879
+Holborn and St Pancras: 13398
+Hackney North and Stoke Newington: 13037
+Islington North: 12550
+Cities of London and Westminster: 12423
+Hackney South and Shoreditch: 12344
+Brighton, Pavilion: 12296
+Richmond Park: 12094
+Bethnal Green and Bow: 11774
+Battersea: 11541
+Dulwich and West Norwood: 11314
+Bermondsey and Old Southwark: 11182
+Islington South and Finsbury: 11170
+Vauxhall: 11113
+Poplar and Limehouse: 10973
+Cambridge: 10903
+Kensington: 10858
+Streatham: 10800
+Ealing Central and Acton: 10636
+Tooting: 10605
+Twickenham: 10484
+Hammersmith: 10324
+Lewisham, Deptford: 10312
+Chelsea and Fulham: 9795
+Westminster North: 9749
+Hove: 9632
+Finchley and Golders Green: 9565
+Oxford East: 9534
+Camberwell and Peckham: 9390
+Oxford West and Abingdon: 9358
+Wimbledon: 9281
+Putney: 9266
+Brentford and Isleworth: 8925
+Manchester, Withington: 8577
+South Cambridgeshire: 8291
+Lewisham West and Penge: 8289
+Kingston and Surbiton: 8075
+Greenwich and Woolwich: 7835
+West Ham: 7725
+Bath: 7696
+St Albans: 7636
+Chipping Barnet: 7601
+Esher and Walton: 7562
+Tottenham: 7446
+Walthamstow: 7257
+Guildford: 7153
+South West Surrey: 7153
+Hitchin and Harpenden: 6923
+Winchester: 6914
+Manchester Central: 6891
+Reading East: 6829
+Leyton and Wanstead: 6824
+South East Cambridgeshire: 6786
+Edinburgh North and Leith: 6744
+Sheffield, Hallam: 6599
+Sheffield Central: 6598
+Norwich South: 6432
+Henley: 6430
+Brent Central: 6421
+Liverpool, Riverside: 6336
+South West Hertfordshire: 6336
+Wantage: 6306
+Brighton, Kemptown: 6296
+Canterbury: 6272
+Enfield, Southgate: 6245
+Witney: 6217
+Wokingham: 6203
+Tunbridge Wells: 6198
+Leeds North East: 6172
+Altrincham and Sale West: 6136
+York Central: 6128
+Maidenhead: 6109
+Warwick and Leamington: 6073
+Bristol North West: 6064
+Bristol South: 6003
+Cheltenham: 6003
+Mid Sussex: 5957
+Chesham and Amersham: 5953
+Woking: 5897
+Lewisham East: 5866
+Rushcliffe: 5856
+Mole Valley: 5851
+Hendon: 5815
+Epsom and Ewell: 5767
+Exeter: 5716
+Croydon North: 5611
+Buckingham: 5592
+Lewes: 5526
+Birmingham, Hall Green: 5522
+Reigate: 5512
+Stroud: 5492
+Hertford and Stortford: 5487
+Croydon South: 5449
+Windsor: 5419
+Newbury: 5418
+Beaconsfield: 5363
+Belfast South: 5353
+Cardiff Central: 5322
+North Somerset: 5311
+Milton Keynes South: 5246
+Ruislip, Northwood and Pinner: 5234
+Arundel and South Downs: 5221
+Horsham: 5205
+Manchester, Gorton: 5204
+Wealden: 5200
+East Ham: 5183
+Runnymede and Weybridge: 5174
+North East Hampshire: 5173
+Milton Keynes North: 5165
+The Cotswolds: 5157
+Ilford South: 5141
+Chichester: 5114
+Cheadle: 5112
+Edinburgh South: 5098
+Cardiff South and Penarth: 5048
+Banbury: 5047
+Truro and Falmouth: 5013
+Beckenham: 5011
+City of Chester: 5008
+Ealing North: 5001
+Watford: 4989
+Harrow West: 4982
+East Hampshire: 4980
+Harrogate and Knaresborough: 4956
+Cardiff North: 4907
+Surrey Heath: 4884
+East Surrey: 4880
+Saffron Walden: 4869
+Brent North: 4866
+Wycombe: 4854
+Cardiff West: 4785
+Leicester South: 4779
+Bromley and Chislehurst: 4712
+Leeds North West: 4708
+Hertsmere: 4669
+Somerton and Frome: 4654
+Chippenham: 4646
+Sutton and Cheam: 4646
+Ilford North: 4637
+Newcastle upon Tyne East: 4601
+North East Hertfordshire: 4597
+East Worthing and Shoreham: 4584
+Macclesfield: 4579
+Huntingdon: 4568
+Croydon Central: 4566
+Bristol East: 4550
+Tonbridge and Malling: 4546
+South Norfolk: 4513
+West Dorset: 4512
+Mitcham and Morden: 4505
+Leeds Central: 4503
+Reading West: 4480
+Aylesbury: 4479
+Kenilworth and Southam: 4479
+Romsey and Southampton North: 4462
+Tatton: 4452
+York Outer: 4452
+Colchester: 4432
+Southampton, Test: 4430
+Bracknell: 4423
+Sevenoaks: 4397
+Salford and Eccles: 4389
+Stretford and Urmston: 4377
+South Northamptonshire: 4376
+Basingstoke: 4368
+Central Devon: 4359
+Bournemouth East: 4344
+Warrington South: 4340
+Salisbury: 4333
+North East Bedfordshire: 4317
+Pudsey: 4309
+Welwyn Hatfield: 4308
+Chingford and Woodford Green: 4295
+Birmingham, Selly Oak: 4290
+Chelmsford: 4290
+Filton and Bradley Stoke: 4289
+Ealing, Southall: 4278
+Portsmouth South: 4253
+Birmingham, Ladywood: 4231
+Edinburgh East: 4229
+Eltham: 4205
+Plymouth, Sutton and Devonport: 4176
+Nottingham South: 4171
+Stratford-on-Avon: 4170
+Edinburgh South West: 4163
+Liverpool, Wavertree: 4162
+Nottingham East: 4144
+Isle of Wight: 4140
+North East Somerset: 4133
+Harrow East: 4129
+East Devon: 4117
+North West Hampshire: 4109
+Broxtowe: 4096
+Mid Bedfordshire: 4090
+Harborough: 4083
+Taunton Deane: 4068
+Suffolk Coastal: 4065
+Bury St Edmunds: 4062
+Tynemouth: 4047
+Slough: 4026
+North West Cambridgeshire: 4019
+Totnes: 4003
+High Peak: 4000
+North Wiltshire: 4000
+Birmingham, Edgbaston: 3969
+Loughborough: 3936
+Hastings and Rye: 3927
+West Worcestershire: 3918
+Wells: 3916
+Eastleigh: 3914
+Westmorland and Lonsdale: 3911
+Colne Valley: 3910
+City of Durham: 3909
+Wythenshawe and Sale East: 3904
+Stockport: 3901
+Rutland and Melton: 3861
+Calder Valley: 3853
+Shrewsbury and Atcham: 3847
+Tewkesbury: 3843
+Carshalton and Wallington: 3837
+Worthing West: 3833
+Central Suffolk and North Ipswich: 3821
+Uxbridge and South Ruislip: 3821
+Bournemouth West: 3820
+Skipton and Ripon: 3820
+Feltham and Heston: 3808
+Ashford: 3802
+Hemel Hempstead: 3801
+Coventry South: 3789
+Bexhill and Battle: 3763
+Maidstone and The Weald: 3761
+Meon Valley: 3760
+Garston and Halewood: 3733
+Sutton Coldfield: 3725
+Solihull: 3724
+South Swindon: 3713
+Bedford: 3691
+Shipley: 3659
+Worcester: 3652
+South Suffolk: 3643
+Devizes: 3635
+Fareham: 3625
+Epping Forest: 3622
+North Dorset: 3602
+Newark: 3573
+Orpington: 3557
+Eastbourne: 3556
+Enfield North: 3555
+Ipswich: 3552
+Congleton: 3519
+Monmouth: 3509
+Derbyshire Dales: 3501
+Sefton Central: 3496
+Edinburgh West: 3493
+Poole: 3467
+Folkestone and Hythe: 3433
+Broadland: 3429
+Hexham: 3429
+New Forest West: 3424
+Elmet and Rothwell: 3416
+Newcastle upon Tyne Central: 3415
+Spelthorne: 3412
+Torridge and West Devon: 3411
+Faversham and Mid Kent: 3408
+Lancaster and Fleetwood: 3408
+Norwich North: 3396
+Gedling: 3392
+Lincoln: 3384
+South West Wiltshire: 3383
+Vale of Glamorgan: 3378
+Tiverton and Honiton: 3370
+Southampton, Itchen: 3366
+Brentwood and Ongar: 3359
+Glasgow North: 3351
+Foyle: 3346
+Crawley: 3343
+Derby North: 3329
+Aldershot: 3321
+Newcastle upon Tyne North: 3296
+Weaver Vale: 3291
+Grantham and Stamford: 3287
+South West Bedfordshire: 3278
+Daventry: 3268
+Leeds West: 3265
+Wirral West: 3252
+Bury South: 3250
+Harwich and North Essex: 3245
+Weston-super-Mare: 3234
+Meriden: 3222
+Glasgow Central: 3221
+Gloucester: 3216
+South West Devon: 3212
+Thornbury and Yate: 3204
+Barking: 3199
+Bromsgrove: 3181
+Selby and Ainsty: 3177
+Swansea West: 3176
+Mid Derbyshire: 3174
+Mid Dorset and North Poole: 3163
+Blackburn: 3152
+St Ives: 3147
+Keighley: 3146
+Ceredigion: 3145
+Dewsbury: 3125
+Hazel Grove: 3118
+Mid Norfolk: 3118
+Bradford West: 3115
+Leicester East: 3115
+New Forest East: 3115
+Thirsk and Malton: 3103
+Sleaford and North Hykeham: 3101
+North Swindon: 3091
+Southend West: 3091
+Sheffield, Heeley: 3079
+Bootle: 3074
+Charnwood: 3070
+Southport: 3070
+Eddisbury: 3067
+Corby: 3063
+Newton Abbot: 3063
+South Thanet: 3063
+Rugby: 3046
+Wirral South: 3035
+West Lancashire: 3025
+South Leicestershire: 3024
+North Devon: 3021
+Crewe and Nantwich: 3001
+Hayes and Harlington: 2996
+Wallasey: 2987
+West Suffolk: 2976
+Richmond (Yorks): 2974
+Stevenage: 2962
+Blackley and Broughton: 2950
+Edmonton: 2932
+Lichfield: 2916
+South East Cornwall: 2913
+Gower: 2891
+North Herefordshire: 2887
+Forest of Dean: 2885
+Kingswood: 2879
+Hereford and South Herefordshire: 2868
+Coventry North West: 2854
+South Down: 2844
+Aberdeen South: 2828
+Yeovil: 2827
+Mid Worcestershire: 2808
+Christchurch: 2805
+North Cornwall: 2801
+St Austell and Newquay: 2799
+Braintree: 2798
+Wyre and Preston North: 2798
+Arfon: 2795
+Luton South: 2794
+Peterborough: 2787
+Batley and Spen: 2785
+Beverley and Holderness: 2782
+South Dorset: 2778
+Rochester and Strood: 2774
+Lagan Valley: 2770
+North Down: 2770
+Witham: 2759
+Ribble Valley: 2748
+Chorley: 2739
+Newport West: 2737
+Belfast East: 2735
+Bosworth: 2732
+Erith and Thamesmead: 2730
+South Ribble: 2714
+North West Leicestershire: 2712
+Haltemprice and Howden: 2695
+Ludlow: 2691
+Huddersfield: 2686
+Camborne and Redruth: 2678
+Morley and Outwood: 2675
+Bridgwater and West Somerset: 2660
+Dartford: 2647
+Leicester West: 2645
+North Tyneside: 2642
+Stafford: 2634
+East Lothian: 2623
+Maldon: 2620
+Wellingborough: 2605
+Northampton South: 2602
+South Derbyshire: 2598
+Birmingham, Perry Barr: 2597
+West Aberdeenshire and Kincardine: 2590
+North Shropshire: 2589
+Bolton West: 2587
+Ellesmere Port and Neston: 2585
+Bury North: 2578
+Old Bexley and Sidcup: 2571
+Birmingham, Hodge Hill: 2570
+East Dunbartonshire: 2570
+Gateshead: 2569
+Rochford and Southend East: 2569
+Broxbourne: 2564
+Coventry North East: 2564
+Warrington North: 2563
+Stirling: 2551
+Torbay: 2547
+Blaydon: 2546
+Birkenhead: 2545
+Bradford East: 2527
+Kettering: 2526
+Penrith and The Border: 2521
+North Norfolk: 2518
+Bognor Regis and Littlehampton: 2511
+Liverpool, West Derby: 2508
+Pontypridd: 2508
+Portsmouth North: 2488
+Gosport: 2485
+Preston: 2483
+Stalybridge and Hyde: 2483
+East Renfrewshire: 2483
+Glasgow South: 2479
+North Thanet: 2472
+Worsley and Eccles South: 2464
+Gravesham: 2461
+Dover: 2460
+Romford: 2457
+Belfast North: 2434
+Havant: 2426
+St Helens South and Whiston: 2424
+Luton North: 2423
+Derby South: 2411
+Rochdale: 2405
+Stone: 2402
+Bolton North East: 2394
+Hornchurch and Upminster: 2393
+Morecambe and Lunesdale: 2392
+Chesterfield: 2366
+Fylde: 2364
+Penistone and Stocksbridge: 2363
+Oldham West and Royton: 2360
+Waveney: 2359
+Bridgend: 2356
+North East Fife: 2352
+Wolverhampton South West: 2350
+Birmingham, Yardley: 2347
+Oldham East and Saddleworth: 2347
+Alyn and Deeside: 2332
+Erewash: 2332
+Rossendale and Darwen: 2331
+Aberdeen North: 2322
+Stockton South: 2321
+Knowsley: 2316
+Brecon and Radnorshire: 2315
+Clwyd West: 2311
+Birmingham, Northfield: 2300
+North East Derbyshire: 2298
+Liverpool, Walton: 2292
+Gainsborough: 2288
+Northampton North: 2277
+East Yorkshire: 2276
+North East Cambridgeshire: 2274
+Gillingham and Rainham: 2268
+Halton: 2268
+North West Durham: 2265
+Wyre Forest: 2264
+Bexleyheath and Crayford: 2260
+Burton: 2257
+Caerphilly: 2257
+Glasgow North West: 2254
+The Wrekin: 2238
+Halifax: 2233
+Sheffield, Brightside and Hillsborough: 2215
+Thurrock: 2215
+Kingston upon Hull North: 2207
+Darlington: 2195
+Scarborough and Whitby: 2195
+Basildon and Billericay: 2191
+Denton and Reddish: 2190
+Sherwood: 2168
+South West Norfolk: 2164
+Newry and Armagh: 2162
+Stourbridge: 2155
+South Antrim: 2151
+Walsall South: 2147
+Rayleigh and Wickford: 2144
+St Helens North: 2135
+Sittingbourne and Sheppey: 2127
+Newcastle-under-Lyme: 2120
+Upper Bann: 2118
+Heywood and Middleton: 2115
+Ochil and South Perthshire: 2101
+Redditch: 2085
+Ynys Môn: 2084
+Berwick-upon-Tweed: 2081
+Gordon: 2077
+Chatham and Aylesford: 2070
+North West Norfolk: 2064
+Warley: 2061
+Sunderland Central: 2056
+Dagenham and Rainham: 2050
+Wakefield: 2034
+Bolton South East: 2030
+Leigh: 2028
+Preseli Pembrokeshire: 2023
+Barrow and Furness: 1996
+Carmarthen East and Dinefwr: 1994
+Delyn: 1991
+Belfast West: 1986
+Tamworth: 1985
+Leeds East: 1984
+Harlow: 1978
+Ashton-under-Lyne: 1954
+Carmarthen West and South Pembrokeshire: 1928
+North Durham: 1926
+Inverness, Nairn, Badenoch and Strathspey: 1919
+Dunfermline and West Fife: 1911
+Wigan: 1909
+Aberconwy: 1898
+Perth and North Perthshire: 1895
+Wansbeck: 1895
+Louth and Horncastle: 1888
+Dwyfor Meirionnydd: 1886
+East Londonderry: 1875
+Newport East: 1864
+South Staffordshire: 1858
+Linlithgow and East Falkirk: 1857
+Birmingham, Erdington: 1853
+Jarrow: 1853
+Fermanagh and South Tyrone: 1848
+Sheffield South East: 1842
+South Holland and The Deepings: 1839
+Carlisle: 1832
+East Antrim: 1815
+Wrexham: 1815
+Livingston: 1808
+Argyll and Bute: 1805
+Montgomeryshire: 1802
+Nuneaton: 1795
+Bassetlaw: 1788
+Staffordshire Moorlands: 1786
+Berwickshire, Roxburgh and Selkirk: 1782
+Doncaster Central: 1772
+Vale of Clwyd: 1769
+Strangford: 1766
+Amber Valley: 1762
+Telford: 1740
+Rother Valley: 1734
+West Tyrone: 1714
+Copeland: 1707
+Llanelli: 1702
+Blyth Valley: 1701
+Midlothian: 1699
+Dundee West: 1699
+Halesowen and Rowley Regis: 1691
+Workington: 1679
+Neath: 1674
+Dumfriesshire, Clydesdale and Tweeddale: 1674
+Makerfield: 1670
+Clwyd South: 1668
+Hyndburn: 1665
+Swansea East: 1664
+Pendle: 1663
+Bishop Auckland: 1645
+Mid Ulster: 1638
+Bradford South: 1637
+South Basildon and East Thurrock: 1635
+Nottingham North: 1628
+Plymouth, Moor View: 1624
+Normanton, Pontefract and Castleford: 1613
+Kingston upon Hull West and Hessle: 1612
+Middlesbrough South and East Cleveland: 1612
+Great Yarmouth: 1610
+North Warwickshire: 1608
+Ogmore: 1597
+Torfaen: 1595
+East Kilbride, Strathaven and Lesmahagow: 1588
+Ashfield: 1587
+Mansfield: 1580
+Sedgefield: 1579
+Hemsworth: 1573
+Brigg and Goole: 1570
+Falkirk: 1561
+Washington and Sunderland West: 1558
+Bolsover: 1513
+Cannock Chase: 1511
+Dundee East: 1510
+Islwyn: 1503
+Stoke-on-Trent Central: 1503
+Don Valley: 1491
+Blackpool North and Cleveleys: 1486
+Paisley and Renfrewshire North: 1483
+Rutherglen and Hamilton West: 1474
+Middlesbrough: 1474
+West Bromwich East: 1473
+Ross, Skye and Lochaber: 1462
+South Shields: 1437
+Cleethorpes: 1430
+Cynon Valley: 1426
+North Antrim: 1423
+Kirkcaldy and Cowdenbeath: 1421
+Aldridge-Brownhills: 1418
+Houghton and Sunderland South: 1415
+Castle Point: 1404
+Stockton North: 1367
+Lanark and Hamilton East: 1360
+Dumfries and Galloway: 1357
+Merthyr Tydfil and Rhymney: 1353
+Burnley: 1351
+Wentworth and Dearne: 1346
+Rotherham: 1342
+Paisley and Renfrewshire South: 1338
+Barnsley Central: 1336
+Stoke-on-Trent North: 1328
+Stoke-on-Trent South: 1309
+Moray: 1273
+Clacton: 1273
+Scunthorpe: 1270
+Wolverhampton North East: 1259
+Boston and Skegness: 1254
+Dudley South: 1253
+West Bromwich West: 1227
+Hartlepool: 1224
+Kingston upon Hull East: 1221
+Aberavon: 1220
+Cumbernauld, Kilsyth and Kirkintilloch East: 1192
+Dudley North: 1191
+Doncaster North: 1183
+Great Grimsby: 1170
+Blackpool South: 1161
+Ayr, Carrick and Cumnock: 1159
+Redcar: 1153
+Rhondda: 1153
+Kilmarnock and Loudoun: 1147
+Wolverhampton South East: 1143
+North Ayrshire and Arran: 1138
+Blaenau Gwent: 1095
+Central Ayrshire: 1094
+Barnsley East: 1093
+Glasgow North East: 1088
+Angus: 1068
+Glasgow South West: 1037
+West Dunbartonshire: 1035
+Coatbridge, Chryston and Bellshill: 1025
+Easington: 1018
+Walsall North: 979
+Inverclyde: 975
+Motherwell and Wishaw: 872
+Orkney and Shetland: 837
+Banff and Buchan: 828
+Glenrothes: 806
+Airdrie and Shotts: 787
+Caithness, Sutherland and Easter Ross: 776
+Glasgow East: 732
+Na h-Eileanan an Iar: 346
 
- Number of votes by Country: 450331
-Number of votes by Constituency: 2194084
-Total number of votes: 2644415
+ Number of votes by Country: 2495985
+Number of votes by Constituency: 2363913
+Total number of votes: 4859898
