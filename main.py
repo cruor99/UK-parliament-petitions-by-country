@@ -60,7 +60,7 @@ if __name__ == "__main__":
         print(country[0] + ": ", country[1])
         numberofvotes += country[1]
 
-    print ("/nBy Constituencies:")
+    print ("\nBy Constituencies:")
     constituencies = pg.getConstituenciesBySignatures()
     numberofconstituencyvotes = 0
     for constituency in constituencies:
