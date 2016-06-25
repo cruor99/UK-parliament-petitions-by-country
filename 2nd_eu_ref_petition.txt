@@ -207,7 +207,8 @@ South Georgia and the South Sandwich Islands:  1
 Suriname:  1
 Tajikistan:  1
 Western Sahara:  1
-/nBy Constituencies:
+
+By Constituencies:
 Hornsey and Wood Green: 14780
 Bristol West: 14028
 Hampstead and Kilburn: 13879
