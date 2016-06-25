@@ -15,8 +15,16 @@ class PetitionGrabber():
 
         return countries
 
-    def _sortCountries(self, data):
-        sortedlist = sorted(data, key=lambda k: k["signature_count"], reverse=True)
+    def _grabConstituencies(self, data):
+        constituencies = data["data"]["attributes"][
+            "signatures_by_constituency"]
+
+        return constituencies
+
+    def _sortBySigns(self, data):
+        sortedlist = sorted(data,
+                            key=lambda k: k["signature_count"],
+                            reverse=True)
 
         return sortedlist
 
@@ -24,9 +32,20 @@ class PetitionGrabber():
         sortedlist = []
         json = pg._grabJson()
         countries = pg._grabCountries(json)
-        sortedcountries = pg._sortCountries(countries)
+        sortedcountries = pg._sortBySigns(countries)
         for country in sortedcountries:
             sortedlist.append((country["name"], country["signature_count"]))
+
+        return sortedlist
+
+    def getConstituenciesBySignatures(self):
+        sortedlist = []
+        json = pg._grabJson()
+        constituencies = pg._grabConstituencies(json)
+        sortedconstituencies = pg._sortBySigns(constituencies)
+        for constituency in constituencies:
+            sortedlist.append((constituency["name"], constituency[
+                "signature_count"]))
 
         return sortedlist
 
@@ -36,5 +55,16 @@ if __name__ == "__main__":
     pg = PetitionGrabber(url=userinput)
 
     countries = pg.getCountriesBySignatures()
+    numberofvotes = 0
     for country in countries:
-        print(country[0]+": ", country[1])
+        print(country[0] + ": ", country[1])
+        numberofvotes += country[1]
+
+    print("Number of votes by Country:", numberofvotes)
+    constituencies = pg.getConstituenciesBySignatures()
+    numberofconstituencyvotes = 0
+    for constituency in constituencies:
+        print(constituency[0] + ":", constituency[1])
+        numberofconstituencyvotes += constituency[1]
+    print ("Number of votes by Constituency:", numberofconstituencyvotes)
+    print("Total number of votes:", numberofvotes + numberofconstituencyvotes)
