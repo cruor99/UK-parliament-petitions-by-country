@@ -43,7 +43,7 @@ class PetitionGrabber():
         json = pg._grabJson()
         constituencies = pg._grabConstituencies(json)
         sortedconstituencies = pg._sortBySigns(constituencies)
-        for constituency in constituencies:
+        for constituency in sortedconstituencies:
             sortedlist.append((constituency["name"], constituency[
                 "signature_count"]))
 
@@ -60,6 +60,7 @@ if __name__ == "__main__":
         print(country[0] + ": ", country[1])
         numberofvotes += country[1]
 
+    print ("/nBy Constituencies:")
     constituencies = pg.getConstituenciesBySignatures()
     numberofconstituencyvotes = 0
     for constituency in constituencies:
